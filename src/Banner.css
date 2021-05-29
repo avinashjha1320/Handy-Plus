@@ -1,0 +1,50 @@
+.banner {
+    background: url("https://images7.alphacoders.com/513/thumb-1920-513904.jpg") center center;
+    height: 60vh;
+    position: relative;
+}
+
+.banner_info {
+    background-color: black;
+    color: white;
+    padding-top: 22vh;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 40px;
+    width: 330px;
+    font-size: 20px;
+}
+
+.banner_search {
+    display: flex;
+    flex-direction: column;
+}
+
+.banner_searchButton {
+    background-color: white !important;
+    font-weight: 900 !important;
+    text-transform: inherit !important;
+    color: #2390d8 !important;
+}
+
+.banner_info>button {
+    background-color: #2390d8;
+    color: white;
+    text-transform: inherit;
+    margin-top: 20px;
+    font-weight: 600;
+}
+
+.banner_info>button:hover {
+    /* background-color: white; */
+    color: #2390d8;
+}
+
+.banner_info>h2 {
+    font-family: cursive;
+    font-size: 35px;
+}
+
+.banner_info>h5 {
+    margin-top: 10px;
+}

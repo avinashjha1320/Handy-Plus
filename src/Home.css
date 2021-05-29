@@ -1,0 +1,10 @@
+.home_section {
+    display: flex;
+    padding: 30px;
+}
+
+.card_name {
+    padding-top: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 40px;
+}
