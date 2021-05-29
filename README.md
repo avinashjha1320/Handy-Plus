@@ -9,14 +9,6 @@ So we have decided to make a mobile app that will not only help to **find the mo
 - Live status of all the available facilities of the hospital.
 - Facilities feedback review system.
 
-### Constraints
-- Non verified people will not be able to engage in any booking of the hospital room rather they can only see the live status of the facilities.
-
-### App Glims
-- Asset light strategy: We can link with hospitals that are near railway stations, bus stands, airports so that people in an emergency get help faster.
-- Availability check: To make the app more accessible we will provide the hospitals with the facilities needed and we can also keep a check with sufficient supplies because all lives matter and during an emergency we can make sure that the hospital does not create a problem for patients and their families.
-- Feedback Feedforward: In the app, people can rate their experience with the hospital so that we can keep a check whether the hospital staff is behaving properly with the patient and not harassing the family.  
-
 ### How to run it on Local System
 - Fork the repository
 - Open the command prompt in the folder where the project is saved
